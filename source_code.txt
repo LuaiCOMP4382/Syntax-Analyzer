@@ -1,0 +1,22 @@
+module fashj ;
+
+const good=55; gnfodsjgodf     = 9000
+
+
+;var jvoijsiofhsdou :integer; baba : integer; whilee : integer;
+
+
+task something; const mother=   90; begin
+
+sdfsd := (fadsfs) + 59;
+
+if 55>=56 then while 90 <> hi do fi
+;
+end;
+
+begin
+
+
+
+
+end.
